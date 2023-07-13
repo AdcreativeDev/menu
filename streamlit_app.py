@@ -16,6 +16,7 @@ icon_size = 20
 
 
 
+st_button('medium', 'https://pdf-chat.streamlit.app', 'Pdf Chat', icon_size)
 st_button('medium', 'https://import-2-vector.streamlit.app', 'NewsAPI extraction and query', icon_size)
  
  
