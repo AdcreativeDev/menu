@@ -16,9 +16,12 @@ icon_size = 20
 
 
 
-st_button('medium', 'https://pdf-chat.streamlit.app', 'Pdf Chat', icon_size)
-st_button('medium', 'https://import-2-vector.streamlit.app', 'NewsAPI extraction and query', icon_size)
-st_button('medium', 'https://simple-docs-chat.streamlit.app', 'Simple Document Chat', icon_size)
+st_button('medium', 'https://pdf-chat.streamlit.app', '🤖 Pdf Chat', icon_size)
+st_button('medium', 'https://simple-docs-chat.streamlit.app', '🤖 Simple Document Chat', icon_size)
+
+st_button('medium', 'https://import-2-vector.streamlit.app', '📥 NewsAPI extraction and query', icon_size)
+st_button('medium', 'https://simple-summary.streamlit.app', '📄 Text Summarize ', icon_size)
+
 
 
 
